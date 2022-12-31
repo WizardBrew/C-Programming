@@ -1,9 +1,9 @@
 #include<iostream>
 						//Credit  iomainip    https://www.programiz.com/cpp-programming/float-double
 using namespace std;
-
+						// Variable can be anyname capital/small but starting with Letters most of time but not numbers or symbol
 int main(){
-	int x;					// Creating Variable
+	int x;					// Creating Variable 
 	int a;					 
 	float A;				
 	char ch;
