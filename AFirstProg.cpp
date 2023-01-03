@@ -2,5 +2,5 @@
 
 
 int main(){
-	std::cout<<"Hello World \n";		// Without Librery Error.	
+	std::cout<<"Hello World \n";		// Without namespace Error.	
 }
