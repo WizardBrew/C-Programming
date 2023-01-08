@@ -4,10 +4,10 @@ using namespace std;
 						// There are Three Major types {Int, Float, Char} 
 						//Sub types char{char, char string}  Int{short-int, long int, etc} float{double, long double} 
 int main(){
-	int x = 5;					// Integer Declaration single 
-	int a,b,c = 0;					// Integer multiple 
-	float A,B,C;					// Float value assigned
-	char res = 'MAX';				//Char is Alphabetical represntation (Only last Letter is taken in consideration)
+	int x = 5;				// Integer Declaration single 
+	int a,b,c = 0;				// Integer multiple 
+	float A,B,C;				// Float value assigned
+	char res = 'MAX';			//Char is Alphabetical represntation (Only last Letter is taken in consideration)
 
 	
 	a= 5; b= 50; c =500;			// Int Assigned  
