@@ -1,4 +1,4 @@
-#include<iostream>			//Header 
+#include<iostream>			//Header file
 
 using namespace std;			//When Not used std lib.
 								
