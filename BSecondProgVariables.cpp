@@ -4,7 +4,7 @@ using namespace std;
 						// Variable can be anyname capital/small but starting with Letters most of time but not numbers or symbol
 int main(){
 	int x;					// Creating Variable 
-	int a;					 
+	int a;					// Variables can also be decleared in one line int a, b, c = 100
 	float A;				
 	char ch;
 	
