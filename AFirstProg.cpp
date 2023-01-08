@@ -1,4 +1,4 @@
-#include<iostream>				//Header 
+#include<iostream>				//Header file
 
 
 int main(){
