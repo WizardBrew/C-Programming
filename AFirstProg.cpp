@@ -2,5 +2,5 @@
 
 
 int main(){
-	std::cout<<"Hello World \n";		// Without namespace Error.	
+	std::cout<<"Hello World \n";		// Without namespace it will show Error if scope is not used.	
 }
